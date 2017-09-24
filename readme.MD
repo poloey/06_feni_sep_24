@@ -1,4 +1,4 @@
-# Home workd
+# Home work
 read css text to css counters from [w3schools](https://www.w3schools.com/css/css_text.asp). Just read for one time. 
 
 
