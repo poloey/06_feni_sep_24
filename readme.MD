@@ -8,6 +8,7 @@
 * rm -r -f  <foldername>
 * rm -rf  <foldername>
 * mv <source> <destination>
+* cat <filename> // to read file
 
 ## selection 
 * parent directory ..
