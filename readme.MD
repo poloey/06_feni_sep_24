@@ -1,3 +1,69 @@
+# all css selector
+### tag selector
+~~~html
+html:
+<li><a href="http://google.com">google</a></li>
+~~~
+
+~~~css
+css:
+li {
+}
+li a {
+}
+~~~
+
+### class selector
+~~~html
+html:
+<li><a class="yahoo" href="http://yahoo.com">yahoo</a></li>
+~~~
+
+~~~css
+css:
+.yahoo {
+  color: teal;
+}
+~~~
+
+### id selector
+~~~html
+html:
+<li><a id="mic" href="http://mic.com">microsoft</a></li>
+~~~
+
+~~~css
+css:
+a#mic {
+  color: tomato;
+}
+~~~
+
+### attribute selector
+~~~html
+html:
+<li><a href="http://google.com">google</a></li>
+~~~
+
+~~~css
+a[href="http://google.com"] {
+  color: salmon;
+}
+~~~
+
+### pseudo selector
+~~~html
+html:
+<li><a href="http://google.com">google</a></li>
+~~~
+
+~~~css
+css:
+a:hover {
+
+}
+~~~
+
 # all terminal command
 * touch <filename>
 * mkdir <foldername>
@@ -18,3 +84,5 @@
 ## flag
 * r - recursive
 * f - force
+
+
