@@ -1,4 +1,8 @@
 # all css selector
+read css text to css counters from [w3schools](https://www.w3schools.com/css/css_text.asp)
+
+
+# all css selector
 ### tag selector
 ~~~html
 html:
