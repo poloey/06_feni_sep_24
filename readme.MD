@@ -69,6 +69,7 @@ a:hover {
 ~~~
 
 # all terminal command
+* ls
 * touch <filename>
 * mkdir <foldername>
 * cd <foldername>
