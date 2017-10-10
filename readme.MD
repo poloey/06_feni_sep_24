@@ -1,5 +1,6 @@
 # Class 06
-### View [all class list](https://github.com/poloey/feni)
+### View [all class list](https://poloey.github.io/feni/)
+
 
 # Home work
 read css text to css counters from [w3schools](https://www.w3schools.com/css/css_text.asp). Just read for one time. 
